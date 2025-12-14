@@ -59,6 +59,20 @@ AI_Network_Intrusion_Detection/
 ├── svm_model.pkl
 │
 └── README.md
+
+
+## Dataset
+
+This project uses the **NSL-KDD dataset**.
+
+Due to repository size and best practices, the dataset files are not included.
+You can download them from the official source:
+
+https://www.unb.ca/cic/datasets/nsl.html
+
+Required files:
+- KDDTrain+.txt
+- KDDTest+.txt
 ```
 
 ---
